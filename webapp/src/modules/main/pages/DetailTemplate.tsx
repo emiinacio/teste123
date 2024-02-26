@@ -27,9 +27,9 @@ export const DetailTemplate = (props: DetailTemplateProps) => {
     return (
       <>
     
-        <Row className={`${styles.componentAsMVlbrkwR}`}>
+        <Row className={`${styles.componentKMDTvTSunT}`}>
     
-    <Col sm={12} className={`d-flex ${styles.componentKDeIfWUtpp}`}>
+    <Col sm={12} className={`d-flex ${styles.componentNpvVWDXGGt}`}>
     
                 <h1 className={`${styles.detail_template_label}`}>
                     Dashboard
