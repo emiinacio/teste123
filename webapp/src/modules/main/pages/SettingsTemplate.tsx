@@ -28,35 +28,35 @@ export const SettingsTemplate = (props: SettingsTemplateProps) => {
     return (
       <>
     
-        <Row className={`${styles.componentYTAFVMZwNJ}`}>
+        <Row className={`${styles.componentxLZQSzrakH}`}>
     
-    <Col sm={3} className={`d-flex ${styles.componentiMsUXrtdOf}`}>
+    <Col sm={3} className={`d-flex ${styles.componenthtOUpbGzvO}`}>
     
-                <h1 className={`${styles.componentgvNUrguWvG}`}>
+                <h1 className={`${styles.componentFmmoedAqck}`}>
                     Settings
                 </h1>
     
     
-                <p className={`${styles.componentYaocYPDklb}`}>
+                <p className={`${styles.componentzomhJORXgo}`}>
                     Account
                 </p>
     
     
-                <p className={`${styles.componentrbUcUaAbsN}`}>
+                <p className={`${styles.componentufVJSgorpv}`}>
                     Organizations
                 </p>
     
     </Col>
     
     
-    <Col sm={9} className={`d-flex ${styles.componentkmHnkCvRsj}`}>
+    <Col sm={9} className={`d-flex ${styles.componentzTpTeNdVoJ}`}>
     
-                <h1 className={`${styles.componentxwFqwaWdES}`}>
+                <h1 className={`${styles.componentFXVJrhNVSV}`}>
                     Settings
                 </h1>
     
     
-    <Form.Group className={`${styles.componentYNHyYIxyld}`}>
+    <Form.Group className={`${styles.componentfvLalcxKXV}`}>
         <Form.Label>
             Name
         </Form.Label>
@@ -66,7 +66,7 @@ export const SettingsTemplate = (props: SettingsTemplateProps) => {
     </Form.Group>
     
     
-    <Form.Group className={`${styles.componentyBrLNVOHTb}`}>
+    <Form.Group className={`${styles.componentBlfEemkHsf}`}>
         <Form.Label>
             Email
         </Form.Label>
@@ -76,7 +76,7 @@ export const SettingsTemplate = (props: SettingsTemplateProps) => {
     </Form.Group>
     
     
-    <Form.Group className={`${styles.componenttamBTHVlhS}`}>
+    <Form.Group className={`${styles.componentajvYyoSzqb}`}>
         <Form.Label>
             Phone number
         </Form.Label>
@@ -86,10 +86,10 @@ export const SettingsTemplate = (props: SettingsTemplateProps) => {
     </Form.Group>
     
     
-    <Container fluid="md" className={`d-flex ${styles.componentQTLYbOzYur}`}>
+    <Container fluid="md" className={`d-flex ${styles.componentOENsEoETJZ}`}>
     
     <Form.Check
-        className={`${styles.componentWQhZgehUEt}`}
+        className={`${styles.componentyohPVWwcYm}`}
         type="checkbox"
         
         
@@ -99,7 +99,7 @@ export const SettingsTemplate = (props: SettingsTemplateProps) => {
     
     
     <Form.Check
-        className={`${styles.componentAarQdgXxjQ}`}
+        className={`${styles.componentHUTGsyWJfC}`}
         type="checkbox"
         
         
@@ -109,7 +109,7 @@ export const SettingsTemplate = (props: SettingsTemplateProps) => {
     
     </Container>
     
-    <Form.Group className={`${styles.componentRZGdcgbsmR}`}>
+    <Form.Group className={`${styles.componentuBTCdwcCAy}`}>
         <Form.Label>
             Socials
         </Form.Label>
