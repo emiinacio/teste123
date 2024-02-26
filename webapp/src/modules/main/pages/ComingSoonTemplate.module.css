@@ -1,0 +1,177 @@
+.plum_low {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #fafafa;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 40px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: 284;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: start;
+    padding-right: 0px;
+    height: fit-content;
+    
+}
+
+.generate_cum {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    flex-direction: row;
+    border-left: 0px;
+    width: 450px;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 80px;
+}
+
+.unfolded_digitized {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #ffffff;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: #2a5555;
+    border-left: 0px;
+    width: 120px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 50px;
+}
+
+.comingsoontemplate {
+}
+
+.gradientcolumn {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: 12 grid;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: start;
+    align-items: scretch;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 100vh;
+    background: #239a768a;
+}
+
+.inputemail {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-left: 0px;
+    width: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: fit-content;
+}
+
+.comingsoon {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    flex-direction: row;
+    border-left: 0px;
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: start;
+    align-items: scretch;
+    background-image: url("https://img.freepik.com/fotos-gratis/paisagem-urbana-de-osaka-coberta-de-arranha-ceus-durante-o-dia-no-japao-perfeita-para-papeis-de-parede_181624-50275.jpg?w=1380&t=st=1694708267~exp=1694708867~hmac=2a06e22e1a4952595cf6966daa9ed3f061351f95c839b20f30eee1d79b97f4d5");
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 100%;
+    background-repeat: no-repeat; background-position: center; background-size: 100%;
+}
+
+.content {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 150px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    flex-direction: column;
+    border-left: 0px;
+    width: 70%;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: center;
+    align-items: start;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 100vh;
+    transform:  skewX(-9deg);  transform-origin: top right; background: #000000d4; 
+}
+
+.rowitems {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    flex-direction: column;
+    border-left: 0px;
+    width: fit-content;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: center;
+    align-items: start;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: fit-content;
+}
+

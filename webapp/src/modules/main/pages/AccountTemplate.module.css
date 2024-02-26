@@ -1,0 +1,362 @@
+.image {
+    border-top: 0px;
+    padding-top: 0px;
+    max-height: 500px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    flex-direction: row;
+    border-left: 0px;
+    width: 5%;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: start;
+    align-items: center;
+    background-image: url("https://images.unsplash.com/photo-1517849845537-4d257902454a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0MDM4MDE5OQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600");
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 500px;
+    background-position: center; background-size: 100%; background-repeat: no-repeat;
+}
+
+.alreadyaccountlabel {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #4e73df;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 10px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: fit-content;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: start;
+    padding-right: 0px;
+    height: fit-content;
+    
+}
+
+.funk_viral {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    flex-direction: row;
+    border-left: 0px;
+    width: 355px;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: space-between;
+    align-items: scretch;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: fit-content;
+}
+
+.forgotpasslabel {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #4e73df;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 10px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: fit-content;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-align: start;
+    padding-right: 0px;
+    height: fit-content;
+    
+}
+
+.inputlastname {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: 185px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    text-align: left;
+    height: fit-content;
+    border-radius: 10px;
+}
+
+.buttonlogingoogle {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #ffffff;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 10px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: #ea4335;
+    border-radius: 20px;
+    border-left: 0px;
+    width: 345px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 35px;
+}
+
+.accounttemplate {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: center;
+    align-items: start;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 100vh;
+}
+
+.content {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    flex-direction: column;
+    border-left: 0px;
+    width: 5%;
+    overflow-x: auto;
+    margin-top: 0px;
+    overflow-y: auto;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 500px;
+}
+
+.inputfirstname {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-left: 0px;
+    width: 158px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    text-align: left;
+    height: fit-content;
+    border-radius: 10px;
+}
+
+.deliverables_electric {
+    border-top: 1px;
+    padding-top: 10px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    border-bottom: 1px;
+    margin-right: 0px;
+    margin-left: 0px;
+    flex-direction: column;
+    border-left: 0px;
+    width: 90%;
+    overflow-x: auto;
+    margin-top: 20px;
+    overflow-y: auto;
+    justify-content: start;
+    align-items: scretch;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: fit-content;
+}
+
+.createaccount {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #3a3b45;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: fit-content;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: start;
+    padding-right: 0px;
+    height: fit-content;
+    
+}
+
+.buttonregisteraccount {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #ffffff;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 10px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-radius: 20px;
+    border-left: 0px;
+    width: 344px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.inputpassword {
+    border-top: 0px;
+    padding-top: 20px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-radius: 20px;
+    background-color: ;
+    border-left: 0px;
+    width: 168px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: fit-content;
+}
+
+.conteiner {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: #ffffff;
+    flex-direction: row;
+    border-left: 0px;
+    width: 780px;
+    overflow-x: auto;
+    margin-top: 50px;
+    overflow-y: auto;
+    justify-content: center;
+    align-items: start;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: fit-content;
+}
+
+.inputname {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-radius: 20px;
+    background-color: ;
+    border-left: 0px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-right: 0px;
+    height: 0px;
+    border-radius: 10px;
+}
+
+.buttonloginfacebook {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    color: #ffffff;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 10px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-radius: 20px;
+    border-left: 0px;
+    width: 345px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 35px;
+}
+
+.inputconfirmpass {
+    border-top: 0px;
+    padding-top: 20px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: ;
+    border-left: 0px;
+    width: 172px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: fit-content;
+}
+
