@@ -26,7 +26,7 @@ export const AppRoutes = () => {
     { path: '/passwordtemplate', element: <PasswordTemplate /> },
     { path: '/', element: <Homepage /> },
     { path: '/logintemplate', element: <LoginTemplate /> },
-    { path: '/mastertemplate', element: <MasterTemplate /> },
+    { path: '/mastertemplateABC', element: <MasterTemplate /> },
     { path: '/logintemplate', element: <LoginTemplate /> },
     { path: '/comingsoontemplate', element: <ComingSoonTemplate /> },
     { path: '/navbartemplate', element: <NavbarTemplate /> },
