@@ -12,9 +12,9 @@
   </parent>
 
   <name>Main</name>
-  <description>Main</description>
+  <description>Main Module</description>
 
-  <groupId>com.artsoft.inputs</groupId>
+  <groupId>com.artsoft.testeexo</groupId>
   <artifactId>main</artifactId>
   <version>1.0.0</version>
   
@@ -74,6 +74,10 @@
 
   <build>
     <plugins>
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+      </plugin>
 
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
