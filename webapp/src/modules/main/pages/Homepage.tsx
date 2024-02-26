@@ -11,6 +11,7 @@ import styles from './Homepage.module.css';
 import useTitle from '@/hooks/useTitle';
 import useBodystyle from '@/hooks/useBodystyle';
 import { Container } from 'react-bootstrap';
+import { Button } from 'react-bootstrap';
 
 type HomepageProps = {};
 
@@ -31,6 +32,16 @@ export const Homepage = (props: HomepageProps) => {
                 </p>
     
     </Container>
+    
+    
+        <Button
+            variant="primary"
+            className={`${styles.skating_absent}`}
+            
+        >
+                OK
+
+        </Button>
     
       </>
     )
