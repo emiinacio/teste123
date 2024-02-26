@@ -40,7 +40,7 @@ export const DashboardTemplate = (props: DashboardTemplateProps) => {
     
         <Button
             variant="primary"
-            className={`${styles.componentVjdSJbqPsh}`}
+            className={`${styles.componentVQBgOsEpJt}`}
             
         >
     <div className='d-inline' style={{  marginRight: '10px',  }}>
