@@ -29,7 +29,7 @@ export const NavbarTemplate = (props: NavbarTemplateProps) => {
       <>
     
 
-        <Navbar bg="primary" expand="lg" className={`${styles.componentJhIiFfsMZS}`}>
+        <Navbar bg="primary" expand="lg" className={`${styles.componentpigNOvdOes}`}>
             <Container>
                 <Navbar.Brand >
                     
