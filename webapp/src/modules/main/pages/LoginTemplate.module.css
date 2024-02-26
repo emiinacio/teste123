@@ -1,45 +1,25 @@
 .logintemplate {
 }
 
-.componentRYHOJSmVMl {
+.componentciEoxhkNMy {
     border-top: 0px;
     padding-top: 0px;
     border-right: 0px;
+    font-weight: bold;
     padding-left: 0px;
     padding-bottom: 0px;
     border-bottom: 0px;
     margin-right: 0px;
     margin-left: 0px;
-    background-color: #465057;
-    flex-direction: row;
     border-left: 0px;
-    width: 100vw;
     margin-top: 0px;
-    justify-content: center;
-    align-items: start;
     margin-bottom: 0px;
+    text-align: center;
     padding-right: 0px;
-    height: 100vh;
+    height: 50px;
 }
 
-.componentYXbiKuFBSh {
-    border-top: 0px;
-    padding-top: 0px;
-    border-right: 0px;
-    padding-left: 0px;
-    padding-bottom: 0px;
-    border-bottom: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-    border-left: 0px;
-    width: 500px;
-    margin-top: 16px;
-    margin-bottom: 0px;
-    padding-right: 0px;
-    height: 70px;
-}
-
-.componentrwuUDNKZfh {
+.componentsmJKKnvYvB {
     border-top: 0px;
     padding-top: 30px;
     border-right: 0px;
@@ -61,7 +41,28 @@
     height: 400px;
 }
 
-.componentaUTUlhiKZx {
+.componentItqwepuUjA {
+    border-top: 0px;
+    padding-top: 0px;
+    border-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: #465057;
+    flex-direction: row;
+    border-left: 0px;
+    width: 100vw;
+    margin-top: 0px;
+    justify-content: center;
+    align-items: start;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    height: 100vh;
+}
+
+.componentPVcHOsreUk {
     border-top: 0px;
     padding-top: 0px;
     border-right: 0px;
@@ -78,7 +79,7 @@
     height: 70px;
 }
 
-.componentTbjBLUZVmf {
+.componentfdBRRmnLok {
     border-top: 0px;
     padding-top: 0px;
     border-right: 0px;
@@ -97,21 +98,20 @@
     height: 50px;
 }
 
-.componentANNjAXngLN {
+.componentorzxypmbuE {
     border-top: 0px;
     padding-top: 0px;
     border-right: 0px;
-    font-weight: bold;
     padding-left: 0px;
     padding-bottom: 0px;
     border-bottom: 0px;
     margin-right: 0px;
     margin-left: 0px;
     border-left: 0px;
-    margin-top: 0px;
+    width: 500px;
+    margin-top: 16px;
     margin-bottom: 0px;
-    text-align: center;
     padding-right: 0px;
-    height: 50px;
+    height: 70px;
 }
 

@@ -10,7 +10,6 @@ import * as FontIcon from 'react-icons/fa';
 import styles from './Homepage.module.css';
 import useTitle from '@/hooks/useTitle';
 import useBodystyle from '@/hooks/useBodystyle';
-import { Container } from 'react-bootstrap';
 import { Button } from 'react-bootstrap';
 
 type HomepageProps = {};
@@ -24,15 +23,6 @@ export const Homepage = (props: HomepageProps) => {
 
     return (
       <>
-    
-    <Container fluid="md" className={`d-flex ${styles.hello_world_container}`}>
-    
-                <p className={`${styles.hello_world_label}`}>
-                    Hello World!
-                </p>
-    
-    </Container>
-    
     
         <Button
             variant="primary"
