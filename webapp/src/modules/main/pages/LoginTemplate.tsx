@@ -29,15 +29,15 @@ export const LoginTemplate = (props: LoginTemplateProps) => {
     return (
       <>
     
-        <Row className={`${styles.componentTakmdSyebE}`}>
+        <Row className={`${styles.componentZsczEWsEpr}`}>
     
-    <Container fluid="md" className={`d-flex ${styles.componentkILtupccwa}`}>
+    <Container fluid="md" className={`d-flex ${styles.componentYNiaFxiNHl}`}>
     
-                <h1 className={`${styles.componentOHfPRAVMoK}`}>
+                <h1 className={`${styles.componentiUWEbPsWdb}`}>
                     Sign In
                 </h1>
     
-    <Form.Group className={`${styles.componentiHtfZCfOmM}`}>
+    <Form.Group className={`${styles.componentLilYEOQklO}`}>
         <Form.Label>
             Email
         </Form.Label>
@@ -48,7 +48,7 @@ export const LoginTemplate = (props: LoginTemplateProps) => {
 disabled={false}            />
         </InputGroup>
     </Form.Group>
-    <Form.Group className={`${styles.componentpjjadbmhku}`}>
+    <Form.Group className={`${styles.componentgAXLVeFfxy}`}>
         <Form.Label>
             Password
         </Form.Label>
@@ -64,7 +64,7 @@ disabled={false}            />
     
         <Button
             variant="secondary"
-            className={`${styles.componentUZNvqYNVdl}`}
+            className={`${styles.componentzmVKaTsieG}`}
             
         >
                 Sign In
