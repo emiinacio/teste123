@@ -15,7 +15,6 @@ import { MasterTemplate } from '@/modules/main/pages/MasterTemplate';
 import { ComingSoonTemplate } from '@/modules/main/pages/ComingSoonTemplate';
 import { NavbarTemplate } from '@/modules/main/pages/NavbarTemplate';
 import { AccountTemplate } from '@/modules/main/pages/AccountTemplate';
-import { DetailTemplate } from '@/modules/main/pages/DetailTemplate';
 import { Resume_Template } from '@/modules/main/pages/Resume_Template';
 import { DashboardTemplate } from '@/modules/main/pages/DashboardTemplate';
 import { SettingsTemplate } from '@/modules/main/pages/SettingsTemplate';
@@ -32,7 +31,6 @@ export const AppRoutes = () => {
     { path: '/comingsoontemplate', element: <ComingSoonTemplate /> },
     { path: '/navbartemplate', element: <NavbarTemplate /> },
     { path: '/accounttemplate', element: <AccountTemplate /> },
-    { path: '/detailtemplate', element: <DetailTemplate /> },
     { path: '/resume_template', element: <Resume_Template /> },
     { path: '/dashboardtemplate', element: <DashboardTemplate /> },
     { path: '/settingstemplate', element: <SettingsTemplate /> }
